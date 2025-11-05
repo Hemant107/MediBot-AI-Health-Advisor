@@ -18,7 +18,7 @@ MediBot is an AI-powered health assistant that helps users get instant medical a
 
 👨‍⚕️ Doctor Consultation Guidance: Recommends when to visit a doctor based on symptom severity.
 
-☁️ Cloud-Based AI Integration (Optional): Supports integration with Google Generative AI or OpenAI APIs.
+☁️ Cloud-Based AI Integration (Optional).
 
 <img width="1856" height="874" alt="Output" src="https://github.com/user-attachments/assets/3e73d6a6-077f-4985-b512-be0c52d43827" />
 
